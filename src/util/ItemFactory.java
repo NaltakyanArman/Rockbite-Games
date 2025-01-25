@@ -7,7 +7,7 @@ import java.util.Map;
 import java.util.Random;
 
 /**
- * Factory class for creating items with random rarities.
+ * Factory class for creating items with random rarities
  */
 
 public class ItemFactory {
